@@ -1,27 +1,23 @@
 ---
-title: Home
+title: Introduction
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+---
+title: Introduction
+layout: home
+---
+# Welcome to DL-200: Leading, Organizing, Values, and Executing 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+During this 8 days of 2 hour sessions we will cover a variety of topics that come from a Christian worldview on Leadership based on theories of leadership including, Greenleaf's servant leadership theory, Gary Yukl's writings on ***Leadership in Oranizations*** and more which will be sourced from the bible included **Acts 6:1-7 (NIV)** which are some of the most powerful lessons on selecting leaders in a growing ministry or business with written by the Apostle Luke in just 184 words.
 
-More specifically, the created site:
+This training will be accompanied by some prep-work that will take approximately two hours of your reading materials which includes the following books:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+[Leadership in Organizations (7th Edition) by Gary Yukl](https://www.amazon.com/Leadership-in-Organizations-7th-edition/dp/B002WLU62W/ref=sr_1_1?crid=QOBWHJB86FIY&dib=eyJ2IjoiMSJ9.8euWA1BOmL9JAKnG4MqfvJonTtgXNQ0Gh1D9Eu1fsvvKbUd-2U0Huq1LVzTahK7IF9IIzXcoeKBlm1NyQ7v1lnoq6Q0tmT_0ms5-g34Xt4P4zk8VPLKdKsJ3Es6KqVQgUVYtmjF5-C4K9iZvd7y3x0OJO3APB28Dd-5zCrke98d5stSO5VMrIGQ1r11lJ0F2sxETCiu3M0j83PGObRffl3eAjkIlfB4oM2sE2AM9rYo.uksroSHhn8Zu5Xmppyq2PfW6wCKpBQHvi4_eeVP1yV4&dib_tag=se&keywords=Leadership+in+Organizations+%287th+Edition%29+by+Gary+Yukl&qid=1711821673&sprefix=leadership+in+organizations+7th+edition+by+gary+yukl%2Caps%2C88&sr=8-1)
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+{: .warning }
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+This website contains both web reading for the instructor and complimentary slides and a document to assist with "training-the-trainers" in a matter of speaking. 
 
 ----
 
