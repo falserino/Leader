@@ -1,4 +1,4 @@
-# just-the-docs-template
+# Welcome to Leading, Organizing, Values, and Executing
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
