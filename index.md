@@ -1,6 +1,8 @@
 ---
 title: Introduction
 layout: home
+nav_order: 2
+has_children: false
 ---
 
 # Welcome to DL-200: Leading, Organizing, Values, and Executing 
