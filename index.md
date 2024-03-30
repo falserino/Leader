@@ -3,10 +3,6 @@ title: Introduction
 layout: home
 ---
 
----
-title: Introduction
-layout: home
----
 # Welcome to DL-200: Leading, Organizing, Values, and Executing 
 
 During this 8 days of 2 hour sessions we will cover a variety of topics that come from a Christian worldview on Leadership based on theories of leadership including, Greenleaf's servant leadership theory, Gary Yukl's writings on ***Leadership in Oranizations*** and more which will be sourced from the bible included **Acts 6:1-7 (NIV)** which are some of the most powerful lessons on selecting leaders in a growing ministry or business with written by the Apostle Luke in just 184 words.
