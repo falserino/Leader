@@ -9,9 +9,8 @@ nav_order: 5
 
 In summary, servant leadership prioritizes **service**, **caring**, and **shared influence**. It challenges traditional power dynamics and fosters environments where people flourish. As we embrace this philosophy, we contribute to a more compassionate and effective world. While Yukl's and Greenleaf's perspectives may differ in some ways, the concepts form a pattern that shows leadership through mutual influence, caring and following the teachings of Christ as noted in:
 
-
 {: .note-title }
-> ***The Greatest Commandment (Matthew 22:34-40)*** 
+> ***The Greatest Commandment (Matthew 22:34-40)***
 >
 > 34 Hearing that Jesus had silenced the Sadducees, the Pharisees got together. 35 One of them, an expert in the law, tested him with this question: 36 “Teacher, which is the greatest commandment in the Law?”
 >
@@ -20,4 +19,6 @@ In summary, servant leadership prioritizes **service**, **caring**, and **shared
 
 This also re-inforces the notion of **empowering others**, which is simply giving them permission to do what is necessary and to support them as needed and the ability to treat each other with mutual repsect and dignity. A leader will be what's often called an 'Active Listener' noting that it's not always an answer the person in need is looking for, but rather, they're just looking for someone to talk to.
 
-As a leader, I think it's important that although you may be a listener in **active listening**, I think that you should be thoughtful and speak prayerfully with God or your minister as you discuss matterss that trouble you. You want to ensure that your directs that are under your care, have the greatest confidence that you are steadfast and firm. In that same vein, I think it's not bad that your staff understand that you may speak with your priest regularly as it sets the example for them as well.
+As a leader, I believe it's important that although you may be a listener in **active listening**, you should be thoughtful and speak prayerfully with God or your minister as you discuss matterss that trouble you. You want to ensure that your directs under your care, have the greatest confidence that you are steadfast and firm. In that same vein, I think it's not bad that your staff understand that you may speak with your Lord or His representative regularly as it sets the example for them as well.
+
+Servant leadership challenges us to rethink leadership paradigms. By prioritizing service, empathy, and growth, servant-leaders create environments where everyone thrives. As we embrace this philosophy, we contribute to a more compassionate and effective world.
