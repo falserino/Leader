@@ -11,7 +11,7 @@ In summary, servant leadership prioritizes **service**, **caring**, and **shared
 
 
 {: .note-title }
-> ***The Greatest Commandment*** pericope
+> ***The Greatest Commandment (Matthew 22:34-40)*** 
 >
 > 34 Hearing that Jesus had silenced the Sadducees, the Pharisees got together. 35 One of them, an expert in the law, tested him with this question: 36 “Teacher, which is the greatest commandment in the Law?”
 >

@@ -9,7 +9,7 @@ has_children: true
 Robert K. Greenleaf's concept of servant leadership revolutionizes the traditional power hierarchy, suggesting leaders should prioritize serving others. His book covers a topic known as "Trustees as Servants" where he applies this philosophy to trustees in organizations.
 
 {: .note-title }
-> The Choosing of the Seven (Acts 6:1-7)
+> ***The Choosing of the Seven (Acts 6:1-7)***
 >
 > **6** In those days when the number of disciples was increasing, the Hellenistic Jews among them complained against the Hebraic
 > Jews because their widows were being overlooked in the daily distribution of food. 2 So the Twelve gathered all the disciples 
