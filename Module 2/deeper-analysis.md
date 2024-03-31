@@ -2,7 +2,7 @@
 title: Yukl in more detail
 layout: default 
 parent: Trustess as Servants
-nav_order: 3
+nav_order: 4
 ---
 
 # In-Depth Analysis of Leadership Styles and Organizational Impact
