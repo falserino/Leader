@@ -11,7 +11,7 @@ Robert K. Greenleaf's concept of servant leadership revolutionizes the tradition
 {: .note-title }
 > The Choosing of the Seven (Acts 6:1-7)
 >
-> 6 In those days when the number of disciples was increasing, the Hellenistic Jews among them complained against the Hebraic
+> **6** In those days when the number of disciples was increasing, the Hellenistic Jews among them complained against the Hebraic
 > Jews because their widows were being overlooked in the daily distribution of food. 2 So the Twelve gathered all the disciples 
 > together and said, “It would not be right for us to neglect the ministry of the word of God in order to wait on tables. 
 > 3 Brothers and sisters, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this 
