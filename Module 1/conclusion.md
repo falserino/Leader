@@ -2,7 +2,7 @@
 layout: default
 title: Summary and Conclusion
 parent: What is a Servant Leader
-nav_order: 4
+nav_order: 5
 ---
 
 ## Conclusion

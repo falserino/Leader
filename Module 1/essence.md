@@ -2,7 +2,7 @@
 layout: default
 title: The Essence of Servant Leadership
 parent: What is a Servant Leader
-nav_order: 2
+nav_order: 3
 ---
 # Essence of Servant Leadership: Greenleaf and Yukl
 
