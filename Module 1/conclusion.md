@@ -2,7 +2,7 @@
 layout: default
 title: Summary and Conclusion
 parent: The Institution as Servants
-nav_order: 4
+nav_order: 3
 ---
 
 ## Conclusion
