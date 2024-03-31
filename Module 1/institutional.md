@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Institution as Servants
-parent: The Essence of Servant Leadership
-nav_order: 2
+parent: What is a Servant Leader
+nav_order: 3
 ---
 ### Organizations as Servant-Leaders
 

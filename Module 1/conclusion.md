@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Summary and Conclusion
-parent: The Institution as Servants
-nav_order: 3
+parent: What is a Servant Leader
+nav_order: 4
 ---
 
 ## Conclusion
