@@ -1,8 +1,8 @@
 ---
 title: Yukl's comparative
 layout: default 
-parent: Trustess as Servants
-nav_order: 3
+parent: Trustees
+nav_order: 4
 ---
 
 # Comparison of Gary Yukl's Leadership Theories
