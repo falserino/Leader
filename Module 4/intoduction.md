@@ -7,7 +7,4 @@ has_children: true
 
 # Learning Objectives
 
-    - Effective communication strategies for leaders
-    - active listening
-    - giving feedback
-    - conflict resolution
+In this module, you will learn how to speak and write clearly and effectively. You will learn how to listen and give feedback to others. You will also learn how to resolve conflicts and handle difficult situations. In this rapidly changing world, communication is paramount.
