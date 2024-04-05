@@ -7,8 +7,4 @@ has_children: true
 
 # Learning Objectives
 
-    - Building high-performing teams
-    - Leading high-performing teams
-        - motivation
-        - delegation
-        - collaboration
+In this module, you will learn how to create and lead a successful team. You will learn how to motivate, delegate, and collaborate with others. You will also learn how to celebrate diversity and appreciate different strengths.

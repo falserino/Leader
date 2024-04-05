@@ -7,6 +7,4 @@ has_children: true
 
 # Learning Objectives
 
-    - Ethical decision-making frameworks and processes for leaders
-    - Stakeholder analysis 
-    - Values-based decision making
+In this module, you will learn how to make decisions that are good for you and others. You will learn how to identify and analyze different options and consequences. You will also learn how to use your values and principles to guide your decisions.
