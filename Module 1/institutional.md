@@ -2,7 +2,7 @@
 layout: default
 title: The Institution as Servants
 parent: What is a Servant Leader
-nav_order: 4
+nav_order: 5
 ---
 ### Organizations as Servant-Leaders
 
