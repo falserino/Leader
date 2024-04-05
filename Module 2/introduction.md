@@ -1,7 +1,7 @@
 ---
 title: Trustess as Servants
 layout: default
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 # Robert Greenleaf's Servant Leadership and Trustees as Servants
