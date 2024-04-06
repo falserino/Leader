@@ -19,6 +19,8 @@ Centering Prayer is a form of **contemplative prayer** that focuses on the exper
 - **No Agenda**: Centering prayer has no specific goals; it’s about being present with God.
 - **Heart-Centered**: It’s less about intellectual understanding and more about experiencing God’s love deep within.
 
+![Image of the choosing of Leader](../images/Knabbsprayerful.pngg)
+
 ## Meditation
 
 Meditation (such as mindfulness or Christian meditation) differs:
