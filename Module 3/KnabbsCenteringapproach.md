@@ -29,9 +29,11 @@ Buddhism diverges from Western religious norms in two significant ways: it does 
 
 Many would argue that for Christians and Jews, in particular, Buddhism can coexist alongside their original faith because it does not overtly challenge their beliefs in God or the soul. The absence of direct conflict allows for a comfortable exploration of Buddhist principles without compromising existing religious convictions.
 
-We would disagree, as previously stated, all things were created from the One Living God, while Buddhism never goes beyond the growth of inner-self which contradictory to the teachings of Christ as shown in John 17:20-23
+We would disagree, as previously stated, all things were created from the One Living God, while Buddhism never goes beyond the growth of inner-self which is contradictory to the teachings of Christ as shown in John 17:20-23
 
 > 20 “My prayer is not for them alone. I pray also for those who will believe in me through their message, 21 that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me. 22 I have given them the glory that you gave me, that they may be one as we are one— 23 I in them and you in me—so that they may be brought to complete unity. Then the world will know that you sent me and have loved them even as you have loved me."
+
+## Secular views on meditation
 
 - **Focus**: Meditation actively engages the mind. Examples include:
   - **Mindfulness Meditation**: Observing thoughts and sensations without judgment.
@@ -41,5 +43,6 @@ We would disagree, as previously stated, all things were created from the One Li
 - **Active vs. Receptive**: Meditation is more **active**, while centering prayer is **receptive**.
 - **Variety**: Different traditions have unique meditation practices.
 
----
+We would counter the points of **Active vs. Receptivve** when considering meditation and prayer together to be incorrect. If one believes that there is no God and no soul, then it cannot be active except as a means of creating a selfish construct about oneself. However, with Prayer we are actively engaged with the living God who listens to our requests and offers forgiveness, guidance, and an opportunity to self-reflect as we discuss our problems with him in quiet active prayer.
 
+---
