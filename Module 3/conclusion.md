@@ -1,5 +1,5 @@
 ---
-title: Knabb's Approach
+title: Emotional Intelligence Conclusion
 layout: default 
 parent: Emotional Intelligence
 nav_order: 6
