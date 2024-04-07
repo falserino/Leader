@@ -19,4 +19,3 @@ In his seminal essay "The Servant as Leader," Robert K. Greenleaf introduced the
 3. **Caring for Others**: The hallmark of servant leadership lies in **caring for people**. The ultimate test is whether those served **grow as individuals**. Do they become healthier, wiser, freer, and more autonomous? Additionally, servant-leaders consider the impact on the **least privileged** in society.
 
 4. **Shared Power**: Unlike traditional top-down leadership, servant-leaders **share power**. They prioritize the well-being of others and help them develop to their fullest potential.
-
