@@ -29,11 +29,11 @@ When forming a new temporary team, the manager is normally interested in the tec
 
 In the case of intact groups, where the work unit already exists, management is likely to consider a different set of factors. This happens because intact groups do not allow for easy inter-group transfer and typically engage in tasks that are well established. Consequently, when intact groups are not achieving desired synergies, it is the manager's responsibility to identify those team characteristics likely to have a positive impact on team behavior and change the existing climate so as to remove existing deficiencies.
 
-#### Figure 2: 
+#### Figure 2
 
 ***Team characteristics profile***
-
 ![Image of the choosing of Leader](../images/Figure2.png)
+***Note: recreated from the publication using Excel***
 
 1. Identify Team Characteristics Considered Predictive of Team Success
 2. Measure Existing Team Climate Characteristics and Produce an Existing Team Profile
