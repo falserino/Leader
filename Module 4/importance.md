@@ -2,7 +2,7 @@
 title: Importance
 layout: default 
 parent: Communication
-nav_order: 1
+nav_order: 5
 ---
 Effective communication is the cornerstone of successful teams. This module explores the importance of communication, various channels available for team interactions, and the art of active listening, seeing a common theme yet?
 
