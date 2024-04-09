@@ -1,7 +1,8 @@
 ---
 title: verbal
 layout: default 
-parent: Writing
-nav_order: 7
+parent: Importance
+nav_order: 8
 ---
 
+## Verbal Communication in Organizations
