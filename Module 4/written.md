@@ -2,7 +2,7 @@
 title: Writing
 layout: default 
 parent: Importance
-nav_order: 7
+nav_order: 6
 ---
 
 ## Clear Writing in Organizational Communication
