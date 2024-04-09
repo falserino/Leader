@@ -2,7 +2,7 @@
 title: verbal
 layout: default 
 parent: Importance
-nav_order: 7
+nav_order: 3
 ---
 
 ## Verbal Communication in Organizations
