@@ -9,7 +9,7 @@ nav_order: 7
 
 To fulfill the team-building role, managers require a framework to guide activities. The framework should be action oriented and easy to understand and apply, while incorporating the critical factors associated with effective team performance found in the team-building literature. Our purpose in this paper is to provide such a framework in a seven-step process intended to guide managers in their team-building efforts.
 
-### Figure 1: Action Framework for Managers Attempting to Engage in Team Building in intact Groups
+### An Action Framework for Managers Attempting to Engage in Team Building in intact Groups
 
 1. Identify Team Characteristics Considered Predictive of Team Success
 2. Measure Existing Team Climate Characteristics and Produce an Existing Team Profile
