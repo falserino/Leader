@@ -6,6 +6,7 @@ nav_order: 7
 ---
 
 ## A Strategic Model
+
 To fulfill the team-building role, managers require a framework to guide activities. The framework should be action oriented and easy to understand and apply, while incorporating the critical factors associated with effective team performance found in the team-building literature. Our purpose in this paper is to provide such a framework in a seven-step process intended to guide managers in their team-building efforts.
 
 ### Figure 1: Action Framework for Managers Attempting to Engage in Team Building in intact Groups
@@ -23,6 +24,7 @@ Each step in the framework is discussed in the sections that follow.
 Our action framework assumes that managers, during their day-to-day interactions with others and when making decisions affecting their work group, can play a key role in facilitating team development. The framework also assumes that the target group of team building is an intact work group where members (a) work within an organizational context, (b) engage in a number of interrelated work tasks or activities, and (c) are psychologically aware of one another but do not necessarily perform in the same physical location.
 
 ### Step 1 — Identify Team Characteristics Considered Predictive of Team Success
+
 Behavioral scientists argue that the success of team-building efforts is a function of the number of desirable team characteristics that can be built into a work environment. The actual mix of factors considered relevant is a function of the type of team being formed (e.g., temporary vs. permanent), tasks performed, the team's level in the organization, the length of time it has been in existence, and the ease of substitutability of existing members.
 
 When forming a new temporary team, the manager is normally interested in the technical and interpersonal skills of potential members that are relevant to the group's tasks, the power distribution of selected members, and whether or not selected members adequately represent relevant constituencies. The key to creating an effective new, temporary team is balance in the attributes of team members, and the presence of needed resources to achieve stated goals. For example, in problem solving and implementation teams, managers must make sure that critical managers with power are selected as members. Therefore, when decisions are made, non-participating managers cannot easily resist. Similarly, managers want to ensure that the required expertise and knowledge exists within the group. This increases the probability of creative problem solving and outcome acceptance by non-members.
