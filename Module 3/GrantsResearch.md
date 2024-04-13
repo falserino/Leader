@@ -9,9 +9,9 @@ nav_order: 4
 
 The Three approaches to Grant's work during his proposed 13-week workshop to increase emotional intelligence (EM) includded
 
-    - Cognitive techniques
-    - Mindfullness techniques
-    - social techniques
+- Cognitive techniques
+- Mindfullness techniques
+- social techniques
 
 While this course is only 8 sections, we have modified it to replace some of the secular approaches of meditation with thoughtful prayer and self-reflection.
 
