@@ -6,7 +6,6 @@ nav_order: 1
 ---
 
 **Advocacy vs. Inquiry**
-
 Garvin and Roberto (2001) contrast two approaches to decision-making: advocacy and inquiry. They ultimately encourage the approach of inquiry due to the lack of cooperative and collaborative impacts of advocate purposed decision-making that is ultimately short-sighted and can have significant impact on the organization as a whole and the leader and their followers.
 
 **Advocacy**

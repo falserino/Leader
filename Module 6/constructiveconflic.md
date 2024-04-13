@@ -2,7 +2,7 @@
 title: Constructive Conflict
 layout: default 
 parent: Decision Making
-nav_order: 1
+nav_order: 2
 ---
 
 **Constructive Conflict**
