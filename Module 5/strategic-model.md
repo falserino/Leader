@@ -33,6 +33,7 @@ In the case of intact groups, where the work unit already exists, management is 
 
 ***Team characteristics profile***
 ![Image of the choosing of Leader](../images/Figure2.png)
+
 ***Note: recreated from the publication using Excel***
 
 1. Identify Team Characteristics Considered Predictive of Team Success
